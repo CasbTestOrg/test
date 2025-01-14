@@ -64,7 +64,7 @@
       }
     ]
   }, 
-  "name": "Innovation Dynamix Jira Connector", 
+  "name": "Innovation Dynamix Jira Notifier", 
   "scopes": [
     "READ"
   ], 
